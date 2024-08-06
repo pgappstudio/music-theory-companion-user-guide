@@ -1,8 +1,7 @@
 # Composer
 The Composer tool is used for composing chord progression along with lyrics.
 
-## How to use the tool
-
+## How to use
 * Create/Delete/Renamed Songs from top-right menu (three vertical dots).
 * Add/Delete/Re-arrange Measures from the drop-down menu (three vertical dots) available at the right of each measure.
 * Select Chords for each beat by long pressing on the beat and selecting the tool from where to select the chord.
