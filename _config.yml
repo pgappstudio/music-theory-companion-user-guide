@@ -9,12 +9,12 @@ relative_links:
   collections: true
 
 include:
-  - README.md
+#  - README.md
 
 # Pages for which links are shown at the menu
-pages_in_toolbar:
-- title: Home
-  url: .
+#pages_in_toolbar:
+#- title: Home
+#  url: .
 
 # Website theme
 theme: jekyll-theme-cayman
