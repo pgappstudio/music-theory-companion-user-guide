@@ -1,1 +1,1 @@
-# music-theory-companion-user-guide
+# Music Theory Companion - User Guide
