@@ -47,6 +47,8 @@ Find negative harmony notes and chords for any scale and the chromatic scale, ba
 ### 15. Cube Dance
 Utilize modern voice leading based on Neo-Riemannian theory for smooth chord transitions, using the geometric dual of the Tonnetz. [Know more...](cube_dance.md)
 
+<br>
+
 Each tool is designed to help you master different aspects of music theory, from composing and practicing to referencing and understanding complex concepts. Tap on any tool to start exploring its features!
 
 We hope you enjoy using Music Theory Companion and that it helps you on your musical journey. If you have any questions or need assistance, don’t hesitate to reach out to us!
