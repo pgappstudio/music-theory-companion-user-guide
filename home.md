@@ -1,49 +1,52 @@
 # Home
-Following musical tools are available in the Home screen:
+Welcome to the Music Theory Companion app! The Home screen is your gateway to a wide range of tools designed to enhance your music theory knowledge and assist in your compositions. Whether you're a beginner or a pro, you'll find everything you need to learn, practice, and create music. Below is a list of tools available on the Home screen, each with a brief description of its features.
 
-## Composer
-Compose your own songs with innovative chord progressions and lyrics. [Know more...](composer.md)
+## Tools Available on the Home Screen
+### 1. Composer
+Note lyrics and chords, play chord progressions with metronome support, and practice instruments. Save and manage multiple songs on your device. [Know more...](composer.md)
 
-## Metronome
-Very accurate and simple metronome with 60+ configurable percussion sounds, configurable time signatures, speed trainer. [Know more...](metronome.md)
+### 2. Metronome
+Maintain a steady tempo from 10 to 500 BPM with 61 percussion sounds. Includes a speed trainer to gradually increase or decrease tempo. [Know more...](metronome.md)
 
-## Grand Piano
-A realistic Grand Piano with high quality sounds of 20+ instruments
+### 3. Grand Piano
+Play a realistic Grand Piano with high-quality sounds from over 100 instruments, perfect for practicing and composing.
 
-## Chord Library
-Collection of 1000+ chords with showing how chords are formed and named. [Know more...](chord_library.md)
+### 4. Chord Library
+Explore a collection of over 1000 chords, understand how they are formed, and see their visual representations on piano, guitar, or staff. [Know more...](chord_library.md)
 
-## Circle of Fifths
-Shows Circle-of-Fifths and Circle-of-Fourths for any scale. [Know more...](circle_of_fifth.md)
+### 5. Circle of Fifths
+Visualize and understand the Circle of Fifths and Fourths for any scale, helping you with key signatures and chord progressions. [Know more...](circle_of_fifth.md)
 
-## References
-Online references to Musical Symbols, Musical Terminologies and useful Music Theory concepts. [Know more...](reference.md)
+### 6. References
+Access online references for musical symbols, terminologies, and important music theory concepts. [Know more...](reference.md)
 
-## Scales & Diatonic Chords
-Shows how diatonic triads and seventh chords are formed for any scale. [Know more...](scales_and_chords.md)
+### 7. Scales & Diatonic Chords
+Learn how diatonic triads and seventh chords are formed for any scale, with visual aids on piano, guitar, and staff notation. [Know more...](scales_and_chords.md)
 
-## Matching Diatonic Chords
-Shows chord alternatives that can be played to accompany any note of any scale. [Know more...](matching_chords.md)
+### 8. Matching Diatonic Chords
+Find chord alternatives that can accompany any note in any scale, enhancing your compositions with dynamic chord progressions. [Know more...](matching_chords.md)
 
-## Matching Scales
-Shows all possible scales that shares the chosen chords for any selected scale. [Know more...](matching_scales.md)
+### 9. Matching Scales
+Discover scales that share the same notes or chords as the selected scale, expanding your harmonic possibilities. [Know more...](matching_scales.md)
 
-## Multiple Scales
-Tool helps composing using parallel scales, relative scales or totally unrelated scales. Helps borrowing chords from a different scale into your composition. [Know more...](multi_scales.md)
+### 10. Multiple Scales
+Compose using parallel, relative, or unrelated scales, and borrow chords from different scales to add variety to your music. [Know more...](multi_scales.md)
 
-## Modulations
-Shows plenty of different chord progressions to smoothly change key from the selected source key to various destination keys. [Know more...](modulations.md)
+### 11. Modulations
+Explore various chord progressions to smoothly transition between keys, enriching your compositions. [Know more...](modulations.md)
 
-## Intervals
-A two octave interval tool useful for ear-training. It also shows the feelings associated with each interval. [Know more...](intervals.md)
+### 12. Intervals
+Study note intervals, practice ear training, and understand the emotions associated with each interval. [Know more...](intervals.md)
 
-## Scale Practice
-Helps practicing any scale with voice or instrument. [Know more...](scale_practice.md)
+### 13. Scale Practice
+Practice any scale vocally or with an instrument, with visual guides on piano, guitar, and staff notation. [Know more...](scale_practice.md)
 
-## Negative Harmony
-Shows the Negative Harmony notes and chords for any selected scale and for the chromatic scale. [Know more...](negative_harmony.md)
+### 14. Negative Harmony
+Find negative harmony notes and chords for any scale and the chromatic scale, based on the Riemannian theory. [Know more...](negative_harmony.md)
 
-## Cube Dance
-A modern voice leading tool based on the Neo-Riemannian theory. [Know more...](cube_dance.md)
+### 15. Cube Dance
+Utilize modern voice leading based on Neo-Riemannian theory for smooth chord transitions, using the geometric dual of the Tonnetz. [Know more...](cube_dance.md)
 
-Select any of the tools and then view the help in that tool page to know more about them.
+Each tool is designed to help you master different aspects of music theory, from composing and practicing to referencing and understanding complex concepts. Tap on any tool to start exploring its features!
+
+We hope you enjoy using Music Theory Companion and that it helps you on your musical journey. If you have any questions or need assistance, don’t hesitate to reach out to us!
