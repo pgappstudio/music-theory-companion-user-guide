@@ -1,4 +1,4 @@
-# Home
+# Home Screen
 Welcome to the Music Theory Companion app! The Home screen is your gateway to a wide range of tools designed to enhance your music theory knowledge and assist in your compositions. Whether you're a beginner or a pro, you'll find everything you need to learn, practice, and create music. Below is a list of tools available on the Home screen, each with a brief description of its features.
 
 ## Tools Available on the Home Screen
