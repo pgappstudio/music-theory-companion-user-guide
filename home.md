@@ -9,7 +9,7 @@ Note lyrics and chords, play chord progressions with metronome support, and prac
 Maintain a steady tempo from 10 to 500 BPM with 61 percussion sounds. Includes a speed trainer to gradually increase or decrease tempo. [Know more...](metronome.md)
 
 ### 3. Grand Piano
-Play a realistic Grand Piano with high-quality sounds from over 100 instruments, perfect for practicing and composing.
+Play a realistic Grand Piano with high-quality sounds from over 100 instruments, perfect for practicing and composing. [Know more...](piano.md)
 
 ### 4. Chord Library
 Explore a collection of over 1000 chords, understand how they are formed, and see their visual representations on piano, guitar, or staff. [Know more...](chord_library.md)
