@@ -16,26 +16,19 @@ Welcome to the Composer Tool! This feature is designed to help you jot down lyri
 ## How to Use the Composer Tool
 1. **Create/Delete/Rename Songs**:
     * Access the top-right menu (three vertical dots) to create, delete, or rename your songs.
-
-2. **Manage Measures**:
+1. **Manage Measures**:
     * Use the drop-down menu (three vertical dots) at the right of each measure to add, delete, or rearrange measures.
-
-3. **Select Chords**:
+1. **Select Chords**:
     * Long press on the beats at the top part of each measure to select a chord from the available tools.
-
-3. **Write Lyrics**:
+1. **Write Lyrics**:
     * Enter lyrics at the bottom part of each measure.
-
-4. **Play Chord Progression**:
+1. **Play Chord Progression**:
     * Press the PLAY button at the bottom right to hear your chord progression.
-
-5. **Adjust Tempo and Key Signature**:
+1. **Adjust Tempo and Key Signature**:
     * Use the corresponding buttons at the bottom to change tempo and key signature.
-
-6. **View Playing Chords**:
+1. **View Playing Chords**:
     * While chords are playing, view them on a guitar fretboard, piano, or staff notation. Choose your preferred display by pressing the dedicated button at the bottom of the screen.
-
-7. **Follow Metronome Beats**:
+1. **Follow Metronome Beats**:
     * The metronome beat number is displayed to help you follow chord changes.
 
 ## Quick Tips
