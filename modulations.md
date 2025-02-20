@@ -20,8 +20,8 @@ Welcome to the Modulations Tool! This feature is designed to help you explore di
     * Press the FIND MODULATIONS button to display chord progressions that modulate from the source key to various destination keys.
 1. **Play Chord Progressions**:
     * Tap on any chord progression to hear it. The chords will be displayed on the piano, guitar fretboard, and staff notation.
-1. **Understand Modulation Colors**:
-    * Different colors below the chords represent different destination keys. This helps visualize how the progression changes key.
+1. **Visualize Different Keys**:
+    * Different colors below the chords represent different destination keys. The I (or i) chord for any color represents the tonic (target) in that key. This helps visualize how the progression changes keys.
 1. **Enable Repeat**:
     * If you want the modulation to play repetitively along with the metronome, enable the REPEAT button.
 
