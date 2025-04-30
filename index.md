@@ -20,6 +20,6 @@ Welcome to the User Guide for the [**Music Theory Companion**](https://play.goog
 | 15 | [Negative Harmony](negative_harmony.md)          | ✔                     |                  |             |                         |
 | 16 | [Cube Dance](cube_dance.md)                      | ✔                     |                  |             |                         |
 | 17 | [Settings](settings.md)                          | ✔                     | ✔                |             | ✔                      |
-| 18 | [Vip Membership](subscription.md)                | ✔                     | ✔                | ✔          | ✔                      |
+| 18 | [VIP Membership](subscription.md)                | ✔                     | ✔                | ✔          | ✔                      |
 
 <!--Music Theory Concepts-->
